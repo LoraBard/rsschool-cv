@@ -23,12 +23,13 @@ Exceptionally creative and dependable junior developer.Self-motivated, self-educ
 
 **Code examples:** 
 - Show serials app (MEAN stack) [https://github.com/LoraBard/serials](https://github.com/LoraBard/serials) ;
-- Chat app (React): https://github.com/LoraBard/TestChat ;
-- Culture Portal (Gatsby.js): https://github.com/LoraBard/culture-portal .
+- Chat app (React): [https://github.com/LoraBard/TestChat](https://github.com/LoraBard/TestChat) ;
+- Culture Portal (Gatsby.js): [https://github.com/LoraBard/culture-portal](https://github.com/LoraBard/culture-portal) .
 ## **Experience**
 ***Web Developer*** 
 
 EPAM Systems / September 2019 - Present
+
 
 **Responsibilities:**
 - UI development;
